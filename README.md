@@ -1,112 +1,106 @@
 ## Guibentes👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=250&text=Hi%20there%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontColor=58a6ff&textBgColor=0d1117" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=f6f8fa&height=250&text=Hi%20there%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontColor=1a1a2e&textBgColor=f6f8fa" alt="header" />
+</picture>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8d3542&height=200&text=Hello%20World&fontAlign=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+### Developer in the making
 
-# Welcome to my GitHub!
+Building things from scratch, one line at a time
 
-Developer in training | Always learning | Never stopping
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b17a-8c6f834650f0.gif" height="60" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Learning+Java+every+day;Building+with+HTML+%26+CSS;Exploring+Databases;Always+curious%2C+always+coding" alt="typing" />
 
 </div>
 
 ---
 
-## About Me
+## Hi, I'm [Your Name]!
 
-Hi! I'm a passionate developer who is on a journey to level up my coding skills every day. I believe that consistency and curiosity are the keys to growth, and I'm here to prove it!
+<img align="right" src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="280" />
 
----
+I'm a developer in progress who's deeply curious about how things work under the hood. Right now my journey looks like this:
 
-## Skills
+- I craft layouts with **HTML & CSS** and enjoy turning designs into reality
+- I'm **learning Java** — classes, methods, OOP, and everything in between
+- I **know my way around databases** — writing queries, understanding schemas
+- My goal? Become a solid **full-stack developer**
 
-### Frontend
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><br />
-      HTML5
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><br />
-      CSS3
-    </td>
-  </tr>
-</table>
-
-### Backend & Data
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><br />
-      Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><br />
-      MySQL
-    </td>
-  </tr>
-</table>
-
-### Learning Journey
-
-| Skill | Level |
-|-------|-------|
-| HTML5 | &#9733;&#9733;&#9733;&#9733;&#9734; |
-| CSS3 | &#9733;&#9733;&#9733;&#9733;&#9734; |
-| Java | &#9733;&#9733;&#9734;&#9734;&#9734; |
-| Databases | &#9733;&#9733;&#9734;&#9734;&#9734; |
+> _"The only way to learn a new programming language is by writing programs in it."_ — Dennis Ritchie
 
 ---
 
-## Currently Learning
+## Tech Stack
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749604-6ef1039e-4e83-4e2a-a73d-3e78504c854c.gif" width="80" />
+**I'm comfortable with**
 
-**Focus:** Deepening my knowledge in Java and exploring more about databases and software architecture.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+**Currently learning**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
+**Have experience with**
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
 ---
 
-## Stats
+## What I'm Working On
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+| Focus | Status |
+|-------|--------|
+| Java & OOP | In Progress |
+| Responsive CSS layouts | Practicing |
+| Database design & queries | Exploring |
+| Git & version control | Learning |
 
 </div>
 
 ---
 
-## Let's Connect!
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut-vertical&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117)
+
+![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff)
 
 </div>
 
 ---
 
+## Let's Connect
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="40" />
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-**Thanks for visiting my profile!**
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8d3542&height=100&section=footer&fontAlign=50&fontAlignY=50&animation=twinkling&fontColor=ffffff" alt="footer" />
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile+views&color=58a6ff&style=for-the-badge" alt="views" />
 
 </div>
+
+---
+
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=80&section=footer&textBgColor=0d1117" alt="footer" />
+</p>
