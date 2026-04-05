@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, Guilherme Bentes
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Programador**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -13,7 +13,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/Guibentes/">
     <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
