@@ -1,5 +1,3 @@
-## Guibentes👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0d1117&height=250&text=Hi%20there%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontColor=58a6ff&textBgColor=0d1117" />
   <img src="https://capsule-render.vercel.app/api?type=blur&color=f6f8fa&height=250&text=Hi%20there%20%F0%9F%91%8B&fontAlign=50&fontAlignY=35&fontColor=1a1a2e&textBgColor=f6f8fa" alt="header" />
@@ -54,30 +52,47 @@ I'm a developer in progress who's deeply curious about how things work under the
 
 ---
 
-## What I'm Working On
+## Dashboard
+
+### Profile Overview
 
 <div align="center">
 
-| Focus | Status |
-|-------|--------|
-| Java & OOP | In Progress |
-| Responsive CSS layouts | Practicing |
-| Database design & queries | Exploring |
-| Git & version control | Learning |
+[![GitHub Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
----
-
-## GitHub Stats
+### Stats at a Glance
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&bg_color=0d1117)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SEU_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=donut-vertical&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&bg_color=0d1117)
+</div>
 
-![Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=dark&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff)
+### Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&title_color=58a6ff&line_color=58a6ff&point_color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+### Repositories & Languages
+
+<div align="center">
+
+[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+### GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=gitdimmed&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
