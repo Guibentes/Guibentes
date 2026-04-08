@@ -55,7 +55,7 @@ Redes de Computadores  ███████████████████
 HTML5                  ██████████████████░░░░░░░░  65 %
 CSS3                   ██████████████████░░░░░░░░  65 %
 Banco de Dados         ████████████████░░░░░░░░░░  60 %
-Java                   ██████████░░░░░░░░░░░░░░░░  35 %
+Java                   ████████░░░░░░░░░░░░░░░░░░  20 %
 ```
 
 </div>
@@ -81,55 +81,6 @@ timeline
     Phase 4 : Java _(ongoing)_
             : OOP fundamentals
             : Algorithms & logic
-    Phase 5 : Full-stack
-            : Connect it all
-            : Deploy to the world
 ```
 
 </div>
-
----
-
-## GitHub Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Guibentes&show_icons=true&theme=radical&hide_border=false&title_color=ff6b9b&icon_color=58a6ff&text_color=c9d1d9&bg_color=161b22&border_color=30363d&ring_color=58a6ff" alt="stats" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guibentes&layout=donut&theme=radical&hide_border=false&title_color=ff6b9b&text_color=c9d1d9&bg_color=161b22&border_color=30363d" alt="langs" />
-
-<img src="https://streak-stats.demolab.com?user=Guibentes&theme=dark&hide_border=false&background=161b22&fire=fb8c00&ring=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&dates=c9d1d9&stroke=30363d&sideLabels=c9d1d9&currStreakLabel=58a6ff" alt="streak" width="380" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Guibentes&theme=onedark&no-frame=true&row=1&column=5&margin-w=8&margin-h=8" alt="trophies" />
-
-</div>
-
----
-
-## Let's Connect
-
-| | | |
-|:--:|:--:|:--:|
-| <a href="https://github.com/Guibentes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> | <a href="https://www.linkedin.com/in/guilherme-bentes-xavier-727553215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> | <a href="mailto:guibentes@hotmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> |
-
-<br>
-
-<div align="center">
-  Made with curiosity e cafeína — Guilherme Bentes
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer&animation=fadeIn&fontColor=58a6ff" alt="footer" />
